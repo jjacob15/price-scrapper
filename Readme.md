@@ -1,0 +1,1 @@
+Simple python script to scrap price of an object online. Its also got a batch script that can be added to startup shell as a shortcut to run on every boot.
